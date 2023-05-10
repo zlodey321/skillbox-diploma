@@ -49,4 +49,4 @@
    or
    ```shell
    docker run -p8080:8080 skillbox/app
-   ```
+   ```# skillbox-diploma
